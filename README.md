@@ -11,7 +11,7 @@
   <a href="https://www.credly.com/badges/69c906b7-18ce-48a1-b562-ec95ca02b740/public_url">
   <img height="100em" src="https://user-images.githubusercontent.com/75401750/157742155-0f3f83a0-cde5-4e91-80c2-9862722a8325.png"/>
   <a href="https://www.credly.com/badges/58b31144-e6ac-46c7-8b4f-6a22606717e6/public_url">
-  <img height="70em" src="https://user-images.githubusercontent.com/75401750/238156844-1b76b117-c3d1-423c-8f65-93233c1f16dc.png"/>  
+  <img height="80em" src="https://user-images.githubusercontent.com/75401750/238156844-1b76b117-c3d1-423c-8f65-93233c1f16dc.png"/>  
 </div>
 
 <div align="center">
