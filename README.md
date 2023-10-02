@@ -13,7 +13,7 @@
   <a href="https://www.credly.com/badges/58b31144-e6ac-46c7-8b4f-6a22606717e6/public_url">
   <img height="100em" src="https://user-images.githubusercontent.com/75401750/238156844-1b76b117-c3d1-423c-8f65-93233c1f16dc.png"/>
   <a href="https://www.credly.com/badges/35a63662-e39d-47d7-9d14-f6854c4d9488/public_url">
-  <img height="100em" src="https://github.com/CristiamVasques/CristiamVasques/issues/1#issuecomment-1743190047"/>  
+  <img height="100em" src="https://user-images.githubusercontent.com/75401750/272007703-f5b464c2-a63b-457b-8361-5f12a799768b.png"/>  
 </div>
 
 <div align="center">
