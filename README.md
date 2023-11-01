@@ -4,6 +4,7 @@
 - 🤝 I am looking to collaborate in sharing my knowledge with others
 - 📫 How to reach me cvasques@tecsystemtelecom.com.br
 - 💻 LinkedIn: https://www.linkedin.com/in/cristiamvasques
+- 💻 Credly: https://www.credly.com/users/cristiamvasques
 
 <div align="center">
   <a href="https://www.credly.com/badges/69c906b7-18ce-48a1-b562-ec95ca02b740/public_url">
