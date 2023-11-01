@@ -4,8 +4,6 @@
 - 🤝 I am looking to collaborate in sharing my knowledge with others
 - 📫 How to reach me cvasques@tecsystemtelecom.com.br
 - 💻 LinkedIn: https://www.linkedin.com/in/cristiamvasques
-- 💻 Credly: [AI-900] https://www.credly.com/badges/69c906b7-18ce-48a1-b562-ec95ca02b740/public_url
-- 💻 Credly: [CISCO-Introduction to Cybersecurity] https://www.credly.com/earner/earned/badge/58b31144-e6ac-46c7-8b4f-6a22606717e6
 
 <div align="center">
   <a href="https://www.credly.com/badges/69c906b7-18ce-48a1-b562-ec95ca02b740/public_url">
