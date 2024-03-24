@@ -3,6 +3,7 @@
 - 📚 I am currently studying computer engineering and Azure Cloud Solutions
 - 🤝 I am looking to collaborate in sharing my knowledge with others
 - 📫 How to reach me cvasques@tecsystemtelecom.com.br
+- 💻 Vasques: https://vasques.netlify.app/
 - 💻 LinkedIn: https://www.linkedin.com/in/cristiamvasques
 - 💻 Credly: https://www.credly.com/users/cristiamvasques
 
