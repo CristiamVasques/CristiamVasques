@@ -25,12 +25,21 @@
   <a href="https://www.credly.com/badges/b852e6cf-27d9-4a11-8dc1-0de7b7a93b57/public_url">
   <img height="100em" src="https://user-images.githubusercontent.com/75401750/277182593-0db02b79-fe56-47a8-bebe-f301f171e9c9.png"/>
 </div>
-
+<br>
 <div align="center">
   <a href="https://www.tecsystemtelecom.com.br">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=CristiamVasques&theme=github_dark&count_private=true&show_icons=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristiamVasques&layout=compact&langs_count=10&theme=github_dark"/> 
- </div>
+</div>
+<br>    
+<div align="center">
+<img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"/>
+<img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
+<img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</div>
  <!---
 ![Github stats](https://github-readme-stats.vercel.app/api?username=CristiamVasques&theme=github_dark&count_private=true&show_icons=true)
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CristiamVasques&layout=compact&langs_count=7&theme=github_dark)
