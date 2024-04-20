@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://www.credly.com/badges/17dea1e3-73f5-46d1-b0c1-418087bdedf3/public_url">
-  <img height="100em" src="https://private-user-images.githubusercontent.com/75401750/316341480-c5835d21-5eb7-4aa5-be82-532eb239b940.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTEzMTM3ODQsIm5iZiI6MTcxMTMxMzQ4NCwicGF0aCI6Ii83NTQwMTc1MC8zMTYzNDE0ODAtYzU4MzVkMjEtNWViNy00YWE1LWJlODItNTMyZWIyMzliOTQwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzI0VDIwNTEyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdlOWI5YjI4ZDFlMWUwNDA3ZDM2MGFhNjhlNTcyOWJmN2MwMmRjNjE3M2FjYzViMDBiMGVhOGEwZWZkZWNhNmYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.MFjOL1_pEuT71bV5Khtct27vwPfhufv43VNLNAvj53k"/><br>
+  <img height="100em" src="https://github.com/CristiamVasques/CristiamVasques/assets/75401750/0db02b79-fe56-47a8-bebe-f301f171e9c9.png"/><br>
   <a href="https://www.credly.com/badges/69c906b7-18ce-48a1-b562-ec95ca02b740/public_url">
   <img height="100em" src="https://user-images.githubusercontent.com/75401750/157742155-0f3f83a0-cde5-4e91-80c2-9862722a8325.png"/>
   <a href="https://www.credly.com/badges/58b31144-e6ac-46c7-8b4f-6a22606717e6/public_url">
