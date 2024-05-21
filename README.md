@@ -24,13 +24,14 @@
   <img height="100em" src="https://user-images.githubusercontent.com/75401750/277182586-84193378-1ec4-4fdb-a2ce-74273d2450c8.png"/>
   <a href="https://www.credly.com/badges/b852e6cf-27d9-4a11-8dc1-0de7b7a93b57/public_url">
   <img height="100em" src="https://user-images.githubusercontent.com/75401750/277182593-0db02b79-fe56-47a8-bebe-f301f171e9c9.png"/><br><br>
+  <a href="https://certs.ibsec.com.br/wp-content/uploads/tutor-certificates/aTuOkHr0DS-8ed62799e3790d0f.jpg">
   <img height="100em" src="https://github.com/CristiamVasques/CristiamVasques/assets/75401750/52889afb-755d-4f63-8123-6cd2db63b25d"/>
-  <a href="https://www.credly.com/badges/4f637906-9e05-411a-b6f4-41cd3d937131/public_url">
-  <img height="100em" src="https://user-images.githubusercontent.com/75401750/272448725-a5d14826-9693-475a-b925-1f3f6e83a97d.png"/>
-  <a href="https://www.credly.com/badges/a0cb146d-b400-4f08-bab4-e5f93a60ba1b/public_url">
-  <img height="100em" src="https://user-images.githubusercontent.com/75401750/277182586-84193378-1ec4-4fdb-a2ce-74273d2450c8.png"/>
-  <a href="https://www.credly.com/badges/b852e6cf-27d9-4a11-8dc1-0de7b7a93b57/public_url">
-  <img height="100em" src="https://user-images.githubusercontent.com/75401750/277182593-0db02b79-fe56-47a8-bebe-f301f171e9c9.png"/>
+  <a href="https://certs.ibsec.com.br/wp-content/uploads/tutor-certificates/CR40p7a9zE-c75ecd6d03e4b59a.jpg">
+  <img height="100em" src="https://github.com/CristiamVasques/CristiamVasques/assets/75401750/b4c24f42-2f9b-4fb7-9856-496a4455d822"/>
+  <a href="https://certs.ibsec.com.br/wp-content/uploads/tutor-certificates/phkKgHF58f-f3b0ac9776038395.jpg">
+  <img height="100em" src="https://github.com/CristiamVasques/CristiamVasques/assets/75401750/e5773fac-b8d5-49ba-8f00-3a11f4696b77"/>
+  <a href="https://certs.ibsec.com.br/wp-content/uploads/tutor-certificates/GlMv8mZ329-ebe55ebcce625040.jpg">
+  <img height="100em" src="https://github.com/CristiamVasques/CristiamVasques/assets/75401750/866a53b5-9c82-48ee-9d4e-1252f09ae2e3"/>
 </div>
 <br>
 <div align="center">
