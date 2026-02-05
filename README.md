@@ -38,8 +38,8 @@
 <br>
 <div align="center">
   <a href="https://www.tecsystemtelecom.com.br">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=CristiamVasques&theme=github_dark&count_private=true&show_icons=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristiamVasques&layout=compact&langs_count=100&theme=github_dark"/>
+  <img height="130em" src="https://github-readme-stats-fast.vercel.app/api?username=CristiamVasques&theme=github_dark&count_private=true&show_icons=true"/>
+  <img height="130em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=CristiamVasques&layout=compact&langs_count=100&theme=github_dark"/>
 </div>
 <br>    
 <div align="center">
